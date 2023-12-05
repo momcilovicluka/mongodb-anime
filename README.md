@@ -6,3 +6,5 @@
 Repozitorijum za projekat iz NoSQL baza podataka o mongodb-u
 
 📄Izvor podataka korišćen za bazu je preuzet sa sajta kaggle: [hernan4444/anime-recommendation-database-2020](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020)
+
+📊Analiza/Statistika baze: [Analiza📋](local-anime-SchemaAnalysis.pdf)
